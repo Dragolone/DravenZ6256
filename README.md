@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Draven
 - 👀 I’m interested in computer sci
 - 🌱 I’m currently learning Advanced computing in the university of Sydney (Software Development)
-- 💞️ I’m looking to collaborate on ...
+- 💞 I’m looking to collaborate on learning new coding languages.
 - 📫 How to reach me : 810170966qq@gmail.com or Wechat: Draven_Zql
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Valorant(Immortal) Csgo(400h)
 
 <!---
 DravenZ6256/DravenZ6256 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
