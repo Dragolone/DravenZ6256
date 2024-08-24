@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Draven
 - 👀 I’m interested in computer sci
-- 🌱 I’m currently learning Advanced computing in the university of Sydney (Software Development)
+- 🌱 I’m currently learning Advanced computing in the university of Sydney (Software Development) S2
 - 💞 I’m looking to collaborate on learning new coding languages.
 - 📫 How to reach me : 810170966qq@gmail.com or Wechat: Draven_Zql
 - 😄 Pronouns: he/him
