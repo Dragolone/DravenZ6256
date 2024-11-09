@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Draven
-- 👀 I’m interested in computer sci
-- 🌱 I’m currently learning Advanced computing in the university of Sydney (Software Development) S2
+- 👀 I’m interested in Coding, AI Model....
+- 🌱 I’m currently learning Advanced computing in the University of Sydney (Software Development) S2
 - 💞 I’m looking to collaborate on learning new coding languages.
-- 📫 How to reach me : 810170966qq@gmail.com or Wechat: Draven_Zql
+- 📫 How to reach me : 810170966qq@gmail.com, Wechat: Draven_Zql .
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Valorant(Immortal) Csgo(400h)
+- ⚡ Fun fact: Badminton🏸 Valorant(Immortal2) Csgo2(400h)
 - 💻 I have learned Java, Python, C++, LaTeX, Markdown, and more.
 
 
