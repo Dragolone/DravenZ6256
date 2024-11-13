@@ -5,7 +5,7 @@
 - 📫 How to reach me : 810170966qq@gmail.com, Wechat: Draven_Zql .
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Badminton🏸 Valorant(Immortal2) Csgo2(400h)
-- 💻 I have learned Java, Python, C++, LaTeX, Markdown, and more.
+- 💻 I have learned Java, Python, Swift, C++, LaTeX, Markdown and more.
 
 
 <!---
