@@ -1,14 +1,18 @@
-- 👋 Hi, I’m @Draven
-- 👀 I’m interested in Coding, AI Model....
-- 🌱 I’m currently learning Advanced computing in the University of Sydney (Software Development) S2
-- 💞 I’m looking to collaborate on learning new coding languages.
-- 📫 How to reach me : 810170966qq@gmail.com, Wechat: Draven_Zql .
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Badminton🏸
-- 💻 I have learned Java, Python, Swift, C++, LaTeX, Javascript and more.
+## 👋 Hi, I'm Draven
 
+I’m a full-stack developer with experience in **App development** and **WeChat Mini Program development**, passionate about building products that are not only technically solid, but also commercially meaningful.
 
-<!---
-DravenZ6256/DravenZ6256 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I enjoy translating business ideas into working systems — designing the logic, building the features, refining the user experience, and making sure the final product can actually serve real users and real business needs.
+
+With a strong interest in both **engineering** and **product thinking**, I focus on creating solutions that balance **code quality, system scalability, and business value**.  
+I believe a strong developer should not only be able to write code, but also understand how a product works, why users need it, and how technology can drive results.
+
+### 🚀 Strengths
+- App & Mini Program development
+- Frontend + Backend collaboration and implementation
+- Product-oriented problem solving
+- Business logic understanding
+- Turning concepts into real, usable products
+
+### 🛠 Tech Stack
+Java · Python · JavaScript · Vue · uni-app · WeChat Mini Program · Backend Development · Database Design
